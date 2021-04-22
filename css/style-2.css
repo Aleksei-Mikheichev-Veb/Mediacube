@@ -700,6 +700,7 @@ ul li{list-style: none;}
 					width: 100%;
 					height: 5px;
 					background: #9c9c9c;
+					overflow: hidden;
 				}
 				.how__line-load{
 					width: 0%;
